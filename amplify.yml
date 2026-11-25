@@ -1,0 +1,14 @@
+version: 1
+frontend:
+  phases:
+    build:
+      commands:
+        # Sitio estático sin build: solo copiamos los archivos públicos a dist/
+        - mkdir -p dist
+        - cp -r index.html img og.jpg robots.txt sitemap.xml llms.txt dist/
+  artifacts:
+    baseDirectory: dist
+    files:
+      - '**/*'
+  cache:
+    paths: []
