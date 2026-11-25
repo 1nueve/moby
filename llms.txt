@@ -1,0 +1,22 @@
+# moby
+
+> moby publica las propiedades de agentes inmobiliarios en los grupos de Facebook de compraventa y renta que el agente indique, sin pagar anuncios. El equipo de moby publica desde su propia cuenta; el agente no presta su cuenta de Facebook.
+
+## Qué incluye
+
+- Publicación en los grupos de Facebook que el agente indique, a un ritmo seguro y siguiendo las reglas de cada grupo (24 horas entre publicaciones en un mismo grupo).
+- Una landing por propiedad, pensada para celular, con fotos, datos, video y la foto del asesor.
+- Portada y textos distintos para cada grupo.
+- Un link corto por grupo, para saber qué grupo manda interesados.
+- Botón de WhatsApp con la referencia de la propiedad y del grupo.
+- Panel de avance con publicaciones visibles, grupos alcanzados y alcance estimado.
+- Si una propiedad ya no está disponible, la landing muestra opciones parecidas del portafolio del agente y pregunta qué busca el interesado.
+
+## Prueba gratis
+
+La primera propiedad se publica gratis en grupos que suman hasta 100,000 miembros.
+
+## Contacto
+
+- Sitio: https://moby.lat/
+- WhatsApp: +52 55 3934 3099
